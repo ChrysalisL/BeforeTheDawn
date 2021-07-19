@@ -7,4 +7,4 @@ This is the class project for CSCI 6562 (Design of Interactive Multimedia), Spri
 2.Exact and run the exe file.
 
 ## Download the project
-Please visit this project's [release page](https://github.com/ChrysalisL/Researcher-s-Advanture/releases) for more details.<br>
+Please visit this project's [release page](https://github.com/ChrysalisL/BeforeTheDawn/releases) for more details.<br>
